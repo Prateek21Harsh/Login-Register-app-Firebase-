@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.converseme.MainActivity">
+    <item
+        android:id="@+id/main_find"
+        android:title="Find Friends"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/main_group"
+        android:title="Create Group"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/main_settings"
+        android:title="Settings"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/main_logout"
+        android:title="Logout"
+        app:showAsAction="never" />
+</menu>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "97633069400",
+    "firebase_url": "https://converseme-ca23c.firebaseio.com",
+    "project_id": "converseme-ca23c",
+    "storage_bucket": "converseme-ca23c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97633069400:android:c80f31f2f28d203a5cdd2d",
+        "android_client_info": {
+          "package_name": "com.example.converseme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97633069400-06aoe14qp94tk89rtljcgvolcqseisdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0NxbIrbjcMkS28bRPXuPh4HXyY5ySPZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97633069400-06aoe14qp94tk89rtljcgvolcqseisdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
